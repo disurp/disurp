@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @disurp
+- 👋 Hi, I’m disruble
 - 👀 I’m interested in pneumonia patients
 - 🌱 I’m currently learning Kyrgystan national language
 - 💞️ I’m looking to collaborate on numerous war crimes
