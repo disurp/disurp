@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @disurp
+- 👀 I’m interested in pneumonia patients
+- 🌱 I’m currently learning Kyrgystan national language
+- 💞️ I’m looking to collaborate on numerous war crimes
+- 📫 How to reach me disrupt#0001
+
+<!---
+disurp/disurp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
